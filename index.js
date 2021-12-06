@@ -1,1 +1,10 @@
-// Code your solutions in this file
+function countDown(n)  {
+    n = 11;
+    while (n > 0) {
+    console.log(n--);
+    }
+return n;
+
+}
+
+
